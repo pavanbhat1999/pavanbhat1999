@@ -1,7 +1,4 @@
-Greetings
-
-[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=pavanbhat1999&count_private=true&show_icons=true)](https://github.com/pavanbhat1999)
-
+ 🙏Namaste
 
 Here are some ideas to get you started:
 
@@ -13,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact@pavanbhat.me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=pavanbhat1999&count_private=true&show_icons=true&bg_color=151515)](https://github.com/pavanbhat1999)
+
