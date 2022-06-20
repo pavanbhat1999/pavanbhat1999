@@ -1,6 +1,6 @@
  🙏Namaste
 
- ![Root](https://github.com/pavanbhat1999/pavanbhat1999/empty_rooot.png?raw=true)
+ ![Root](https://github.com/pavanbhat1999/pavanbhat1999/blob/master/empty_rooot.png?raw=true)
 
 Here are some ideas to get you started:
 
