@@ -1,4 +1,8 @@
 Greetings
+
+[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=pavanbhat1999&count_private=true&show_icons=true)](https://github.com/pavanbhat1999)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
