@@ -1,6 +1,6 @@
  🙏Namaste
 
- [ My_Website](https://pavanbhat.me)
+ [ My_Website](https://pavanbhat1999.github.io)
  <!-- ![Root](https://github.com/pavanbhat1999/pavanbhat1999/blob/master/empty_rooot.png?raw=true) -->
 
 Here are some ideas to get you started:
