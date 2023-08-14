@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on figlet.nvim
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about GNU/Linux Desktop
-- 📫 How to reach me: [contact@pavanbhat.me](prbhat07@gmail.com)
+- 📫 How to reach me: prbhat07@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
